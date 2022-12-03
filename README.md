@@ -3,7 +3,22 @@
 
 ### Ezequias Lopes - v19 
 
-Me especializando em Fullstack, trabalhando em projetos privados e da comunidada com as teconlogias: [GIT](https://git-scm.com/), [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [Prisma](https://www.prisma.io/), ([PostgreSQL](https://www.postgresql.org/) e [MySQL](https://www.mysql.com/)), [Primer/React](https://primer.style/react/), [MaterialUI](https://mui.com/pt/), [StyledComponents](https://www.styled-components.com/), [DiscordJs](https://discord.js.org/) e outras...
+<p align='justify'>
+  Me especializando em Fullstack, trabalhando em projetos privados e da comunidada com as teconlogias: 
+  <a href="https://git-scm.com/">GIT</a>, 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>, 
+  <a href="https://www.typescriptlang.org/">TypeScript</a>, 
+  <a href="https://reactjs.org/">ReactJS</a>, 
+  <a href="https://nextjs.org/">NextJS</a>, 
+  <a href="https://discord.js.org/">DiscordJs</a>,
+  <a href="https://www.prisma.io/">Prisma</a>, 
+  <a href="https://www.postgresql.org/">PostgreSQL</a>,
+  <a href="https://www.mysql.com/">MySQL</a>, 
+  <a href="https://primer.style/react/">Primer/React</a>, 
+  <a href="https://mui.com/pt/">MaterialUI</a>, 
+  <a href="https://www.styled-components.com/">StyledComponents</a>
+  e outras...
+</p>
   
 ---
 
