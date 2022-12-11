@@ -4,7 +4,7 @@
 ### Ezequias Lopes - v19 
 
 <p align='justify'>
-  Me especializando em Fullstack, trabalhando em projetos privados e da comunidada com as teconlogias: 
+  Me especializando em Fullstack, trabalhando em projetos privados e da comunidade com as teconlogias: 
   <a href="https://git-scm.com/">GIT</a>, 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>, 
   <a href="https://www.typescriptlang.org/">TypeScript</a>, 
