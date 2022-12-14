@@ -6,6 +6,7 @@
 <p align='justify'>
   Me especializando em Fullstack, trabalhando em projetos privados e da comunidade com as teconlogias: 
   <a href="https://git-scm.com/">GIT</a>, 
+  <a href="https://www.figma.com/">Figma</a>,
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>, 
   <a href="https://www.typescriptlang.org/">TypeScript</a>, 
   <a href="https://reactjs.org/">ReactJS</a>, 
