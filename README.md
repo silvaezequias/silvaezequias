@@ -23,4 +23,4 @@
   
 ---
 
-<p align='center'><a href="https://www.tabnews.com.br/Ezequias">TabNews</a> <!-- • <a href="https://www.instagram.com/easyquias/">Instagram</a> • <a href="https://twitter.com/easyquias">Twitter</a> --></p>
+<p align='right'><a href="https://www.tabnews.com.br/Ezequias">TabNews</a> <!-- • <a href="https://www.instagram.com/easyquias/">Instagram</a> • <a href="https://twitter.com/easyquias">Twitter</a> --></p>
