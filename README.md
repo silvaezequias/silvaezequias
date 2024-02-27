@@ -1,7 +1,7 @@
 
 [<img align='right' src="https://github-readme-stats.vercel.app/api?username=silvaezequias&show_icons=true&title_color=6F5643&text_color=CC6B49&icon_color=6F5643&bg_color=ECE6C2&cache_seconds=2300">](https://github.com/silvaezequias)
 
-### Ezequias Lopes - v19.8.3
+### Ezequias Lopes - v20.6
 
 <p align='justify'>
   Me especializando em Fullstack, trabalhando em projetos privados e da comunidade com as teconlogias: 
